@@ -1,0 +1,12 @@
+{
+  "name": "music-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "web-dev-server --watch --node-resolve --open --app-index ./src/index.html"
+  },
+  "devDependencies": {
+    "@web/dev-server": "0.1.8"
+  }
+}
